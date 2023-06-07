@@ -1,0 +1,13 @@
+python==3.10.7
+Django ==4.2.1
+asgiref==3.7.2
+requests == 2.31.0
+six==1.16.0
+bs4 == 0.0.1
+BeautifulSoup == 4.12.12
+sqlparse==0.4.4
+tzdata==2023.3
+openai==0.27.7
+nltk == 3.8.1
+docx == 0.2.4
+regex==20233.5.5
